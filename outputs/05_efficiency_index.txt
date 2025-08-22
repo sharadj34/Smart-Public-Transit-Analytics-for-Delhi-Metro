@@ -1,0 +1,14 @@
+   station_name   | total_trips | total_revenue | efficiency_index 
+------------------+-------------+---------------+------------------
+ Noida Sector 62  |        4946 |    2679737.73 |           541.80
+ Vaishali         |        4973 |    2646050.16 |           532.08
+ Chandni Chowk    |        4967 |    2605340.79 |           524.53
+ Botanical Garden |        5006 |    2577708.14 |           514.92
+ Rajiv Chowk      |        4998 |    2500001.21 |           500.20
+ Huda City Centre |        5017 |    2463849.31 |           491.10
+ Dwarka           |        5058 |    2479450.79 |           490.20
+ Rithala          |        5060 |    2469215.84 |           487.99
+ AIIMS            |        4981 |    2384668.36 |           478.75
+ Kashmere Gate    |        4994 |    2388054.01 |           478.18
+(10 rows)
+

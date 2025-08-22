@@ -1,0 +1,28 @@
+   station_name   | congestion_gap 
+------------------+----------------
+ Chandni Chowk    |             90
+ Dwarka           |             51
+ Rajiv Chowk      |             28
+ Botanical Garden |             23
+ Rithala          |             17
+ Huda City Centre |              7
+ AIIMS            |            -15
+ Vaishali         |            -25
+ Kashmere Gate    |            -50
+ Noida Sector 62  |           -126
+(10 rows)
+
+   station_name   | station_revenue 
+------------------+-----------------
+ Noida Sector 62  |      2679737.73
+ Vaishali         |      2646050.16
+ Chandni Chowk    |      2605340.79
+ Botanical Garden |      2577708.14
+ Rajiv Chowk      |      2500001.21
+ Dwarka           |      2479450.79
+ Rithala          |      2469215.84
+ Huda City Centre |      2463849.31
+ Kashmere Gate    |      2388054.01
+ AIIMS            |      2384668.36
+(10 rows)
+

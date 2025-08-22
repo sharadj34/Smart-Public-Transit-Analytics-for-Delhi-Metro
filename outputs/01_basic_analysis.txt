@@ -1,0 +1,35 @@
+   station_name   | total_trips 
+------------------+-------------
+ Rithala          |        5060
+ Dwarka           |        5058
+ Huda City Centre |        5017
+ Botanical Garden |        5006
+ Rajiv Chowk      |        4998
+ Kashmere Gate    |        4994
+ AIIMS            |        4981
+ Vaishali         |        4973
+ Chandni Chowk    |        4967
+ Noida Sector 62  |        4946
+(10 rows)
+
+ hour_of_day | trips 
+-------------+-------
+ 21          |  3022
+ 19          |  3013
+ 08          |  2991
+ 22          |  2982
+ 11          |  2981
+ 09          |  2968
+ 17          |  2966
+ 15          |  2959
+ 18          |  2952
+ 16          |  2952
+ 10          |  2951
+ 06          |  2914
+ 14          |  2902
+ 12          |  2901
+ 20          |  2891
+ 07          |  2885
+ 13          |  2770
+(17 rows)
+
