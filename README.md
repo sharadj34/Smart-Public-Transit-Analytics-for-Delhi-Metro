@@ -128,4 +128,4 @@ Re-run the notebook to refresh these images after data changes.
 - If you add new SQL files to `sql/`, rerun the outputs script to generate new results.
 
 ## License
-MIT
+Sharad Jha
